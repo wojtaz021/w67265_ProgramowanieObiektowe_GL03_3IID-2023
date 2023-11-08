@@ -14,6 +14,7 @@ namespace lab1
                 Console.WriteLine("1. Liczba parzysta");
                 Console.WriteLine("2. N liczb parzystych");
                 Console.WriteLine("4. Silnia");
+                Console.WriteLine("5. Gra");
                 Console.WriteLine("0. Wyjdź");
 
                 var input = Console.ReadLine();
